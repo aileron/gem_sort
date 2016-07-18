@@ -1,4 +1,4 @@
-require "gem_sort/engine"
+require 'gem_sort/engine'
 
 module GemSort
 end
